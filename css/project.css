@@ -1,0 +1,32 @@
+
+.my_button:hover{
+    background-color: #312f30;
+    color: #fff;
+}
+.my_form{
+    border: none;
+}
+.location{
+    color: #e0a067
+}
+.my_imgs{
+    background-image: url(../images/legal-law-gavel-judge-justice-court.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my_picture{
+    background-image: url(../images/female\ lawyer-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.my_media{
+    color: #e0a067;
+}
+.my_container{
+    background-image: url(../images/photo-1614292264554-7dca1d6466d6millirock.jpg);
+}
+.my_button{
+    background-color: #e0a067;
+    color: #fff;
+}
